@@ -34,18 +34,18 @@ const projects = [{
     sourceLink: "https://github.com/daniela-ab/conversor-peso"
 },
 {
-    title: "Weather App",
-    description: "Uses geolocaiton and open weather api. Created using JS, HTML, CSS",
-    coverUrl: "https://screenshot-proxy.netlify.app/f_jpg,w_400/https://d33wubrfki0l68.cloudfront.net/6364b8ef2b514000096450a7/screenshot_2022-11-04-07-02-55-0000.png",
-    demoLink: "https://netflix-clone-dn3.netlify.app/",
-    sourceLink: "https://github.com/devs-nest/DN3-Frontend-Streams/tree/main/Day%2013%20%26%2014%20-%20Weather%20app"
+    title: "Calculadora de Idade",
+    description: "Calculadora em Python com 6 saídas de dados diferentes",
+    coverUrl: "https://images2.imgbox.com/72/06/940uzWUe_o.jpg",
+    demoLink: "https://replit.com/@dani0408/calculadoraidade?v=1",
+    sourceLink: "https://github.com/daniela-ab/calculadora_idade"
 },
 {
     title: "Weather App",
     description: "Uses geolocaiton and open weather api. Created using JS, HTML, CSS",
     coverUrl: "https://screenshot-proxy.netlify.app/f_jpg,w_400/https://d33wubrfki0l68.cloudfront.net/6364b8ef2b514000096450a7/screenshot_2022-11-04-07-02-55-0000.png",
     demoLink: "https://netflix-clone-dn3.netlify.app/",
-    sourceLink: "https://github.com/devs-nest/DN3-Frontend-Streams/tree/main/Day%2013%20%26%2014%20-%20Weather%20app"
+    sourceLink: "https://github.com/daniela-ab/calculadora_idade"
 },
 {
     title: "Weather App",
