@@ -48,11 +48,11 @@ const projects = [{
     sourceLink: "https://github.com/daniela-ab/app-temperatura"
 },
 {
-    title: "Weather App",
-    description: "Uses geolocaiton and open weather api. Created using JS, HTML, CSS",
-    coverUrl: "https://screenshot-proxy.netlify.app/f_jpg,w_400/https://d33wubrfki0l68.cloudfront.net/6364b8ef2b514000096450a7/screenshot_2022-11-04-07-02-55-0000.png",
-    demoLink: "https://netflix-clone-dn3.netlify.app/",
-    sourceLink: "https://github.com/devs-nest/DN3-Frontend-Streams/tree/main/Day%2013%20%26%2014%20-%20Weather%20app"
+    title: "Painel Administrativo",
+    description: "Painel em Bootstrap",
+    coverUrl: "https://images2.imgbox.com/29/97/3WlFquji_o.png",
+    demoLink: "https://daniela-ab.github.io/dashboard-bootstrap/",
+    sourceLink: "https://github.com/daniela-ab/dashboard-bootstrap"
 },
 ];
 
